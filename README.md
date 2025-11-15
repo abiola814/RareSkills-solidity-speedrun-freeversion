@@ -1,8 +1,9 @@
 # 📚 8-Week Intensive Solidity Bootcamp - From Zero to Advanced
 ### Using RareSkills Free Resources
 
-> **Duration**: 8 Weeks
-> **Time Commitment**: 20-25 hours/week
+> **Duration**: 8 Weeks (2 Months)
+> **Time Commitment**: 20 hours/week (~80 hours/month)
+> **Total Learning Hours**: 160 hours
 > **Cost**: FREE
 > **Outcome**: Production-ready Solidity developer
 
@@ -19,6 +20,21 @@ This repository provides a **comprehensive, structured learning path** for Solid
 - ✅ Covers fundamentals to advanced DeFi protocols
 - ✅ Security-focused from day one
 - ✅ Portfolio-ready projects included
+
+## 📊 Course Statistics at a Glance
+
+| Metric | Count |
+|--------|-------|
+| **Total Weeks** | 8 weeks |
+| **Total Study Hours** | 160+ hours |
+| **Hours per Week** | 20 hours |
+| **Hours per Month** | ~80 hours |
+| **Articles/Tutorials** | 100+ |
+| **Hands-on Exercises** | 20+ coding challenges |
+| **Weekly Projects** | 8 portfolio projects |
+| **Final Capstone Options** | 3 major projects |
+| **Practice Platforms** | 3+ (Ethernaut, Damn Vulnerable DeFi, etc.) |
+| **Security Challenges** | 15+ riddles & puzzles |
 
 ---
 
@@ -588,7 +604,7 @@ Found a broken link or want to suggest improvements? Please create an issue or p
 
 ---
 
-**Last Updated**: November 2024
+**Last Updated**: November 15, 2025
 **Maintained by**: Oladunjoye Abiola Moses
 
 ⭐ Star this repo if you found it helpful!
